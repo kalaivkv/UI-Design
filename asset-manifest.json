@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UI-Design/static/css/main.3d41d77a.css",
-    "main.js": "/UI-Design/static/js/main.2c7d3391.js",
+    "main.js": "/UI-Design/static/js/main.2f2e4d9f.js",
     "static/js/488.0f84848b.chunk.js": "/UI-Design/static/js/488.0f84848b.chunk.js",
     "index.html": "/UI-Design/index.html",
     "main.3d41d77a.css.map": "/UI-Design/static/css/main.3d41d77a.css.map",
-    "main.2c7d3391.js.map": "/UI-Design/static/js/main.2c7d3391.js.map",
+    "main.2f2e4d9f.js.map": "/UI-Design/static/js/main.2f2e4d9f.js.map",
     "488.0f84848b.chunk.js.map": "/UI-Design/static/js/488.0f84848b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d41d77a.css",
-    "static/js/main.2c7d3391.js"
+    "static/js/main.2f2e4d9f.js"
   ]
 }
